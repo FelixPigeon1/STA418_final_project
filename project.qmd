@@ -1,10 +1,14 @@
 ---
 title: "project"
-format: html
+author: "Delaney Kelley, add your names"
+format: 
+  html:
+    theme: minty
+    self-contained: true
+    embed-resources: true
+editor: visual
+error: true
+warning: false
+date: today
+date-format: medium
 ---
-
-A wonderful report goes here.
-
-This is some insightful analyis.
-
-Derek Akers is the most handsomest, smartest, & funniest  
